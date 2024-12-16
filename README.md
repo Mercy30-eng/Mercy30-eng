@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student;+Tutor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Enthusiast;+Tutor)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Mercy. I'm passionate about creating innovative solutions that make a real impact in the digital world.
 - 👀 I’m interested in creating user-friendly websites and mobile apps, DeVops, AI and machine learning.
